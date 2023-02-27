@@ -3,3 +3,4 @@
 #头像生成
  Notion风格头像 https://notion-avatar.vercel.app/zh
  AVA Maker     https://avamake.com/
+ Vue https://vue-color-avatar.vercel.app/
